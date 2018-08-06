@@ -1,0 +1,17 @@
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\bin\Debug\EntityFramework.dll
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\bin\Debug\System.Data.SQLite.dll
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\bin\Debug\EntityFramework.xml
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\bin\Debug\System.Data.SQLite.xml
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\obj\Debug\SearchAlbum.csprojAssemblyReference.cache
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\obj\Debug\SearchAlbum.csproj.CoreCompileInputs.cache
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\obj\Debug\SearchAlbum.csproj.CopyComplete
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\naumov\source\repos\SearchAlbum\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
